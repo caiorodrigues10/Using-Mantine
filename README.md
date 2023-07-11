@@ -11,7 +11,7 @@
 
 # 👀 About
 
-This project was created just to practice a little on mantine components!
+This project was created just to practice a little about mantine components, but the idea came from this figma: https://www.figma.com/community/file/913621515993797786
 
 <div align="center">
   <img src="public/images/viewPage.png" width="700" /> 
