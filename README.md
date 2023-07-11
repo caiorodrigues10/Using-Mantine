@@ -1,3 +1,16 @@
+<div align="center">
+  <h1>Home Page</h1>
+  <p>it's just a static home page</p>
+  <p>
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Caio%20Rodrigues/Using-mantine?color=%232196F3">
+    <a href="https://www.linkedin.com/in/caio-henrique-rodrigues-9b155916b/" target="_blank" rel="noopener noreferrer">
+      <img alt="Made by" src="https://img.shields.io/badge/made%20by-Caio%20Rodrigues-%232196F3">
+    </a>          
+    <img alt="GitHub" src="https://img.shields.io/github/license/Caio%20Rodrigues/Using-mantine?color=%232196F3">
+  </p>
+</div>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
