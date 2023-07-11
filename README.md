@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/caio-henrique-rodrigues-9b155916b/" target="_blank" rel="noopener noreferrer">
       <img alt="Made by" src="https://img.shields.io/badge/made%20by-Caio%20Rodrigues-%232196F3">
     </a>          
-    <img alt="GitHub" src="https://img.shields.io/github/license/Caio%20Rodrigues/Using-mantine?color=%232196F3">
+    <img alt="GitHub" src="https://img.shields.io/github/license/caiorodrigues10/Using-mantine?color=%232196F3">
   </p>
 </div>
 
